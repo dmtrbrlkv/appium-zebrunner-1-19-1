@@ -1,4 +1,4 @@
-FROM appium/appium:v1.22.3-p1
+FROM appium/appium:1.19.1-p0
 #FROM appium:v1.22.2-p0
 
 ENV PLATFORM_NAME=ANDROID
